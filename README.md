@@ -1,4 +1,5 @@
-# СЭТ
+# СЭТ <img width="1024" height="1024" alt="Copilot_20260211_072828" src="https://github.com/user-attachments/assets/53b5fbeb-8c45-4e2e-a831-49d2ccff97c9" />
+
 Система Экзаменационного Тестирования
 
 На Python и CustomTkinter
