@@ -59,12 +59,13 @@ A-C, B-D
 ```text
 1. Вопрос !(Подпись)[my_image.png]
 ```
+Изображения хранятся в 'tests\images\...', либо прямо рядом с тестами
 
 ## Сборка .exe
 Ниже два варианта (из корня проекта, в активированной venv).
 ### 0) Установка библиотеки
 ```bash
-pip install pyinstaller
+pip install --upgrade -r requirements.txt
 ```
 ### 1) Базовая сборка ("голый" exe)
 ```bash
