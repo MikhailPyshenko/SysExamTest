@@ -2,7 +2,7 @@
 
 На Python и CustomTkinter
 
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/884e8a7a-fffe-40ab-a770-1eabaa7bc3e8" /> <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/b1694876-b4e6-4167-9bfc-449f149a74a7" /> <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/74521bd7-aa11-46fc-8700-1cef3beeadae" />
+<img width="300" height="263" alt="image" src="https://github.com/user-attachments/assets/884e8a7a-fffe-40ab-a770-1eabaa7bc3e8" /> <img width="300" height="263" alt="image" src="https://github.com/user-attachments/assets/b1694876-b4e6-4167-9bfc-449f149a74a7" /> <img width="300" height="263" alt="image" src="https://github.com/user-attachments/assets/74521bd7-aa11-46fc-8700-1cef3beeadae" />
 
 ## Возможности
 - Запуск одного теста или банка тестов.
