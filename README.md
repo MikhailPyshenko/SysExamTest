@@ -74,8 +74,11 @@ pyinstaller --noconfirm --windowed --onefile --icon=pyquiz.ico main.py
 ```bash
 pyinstaller --noconfirm --windowed --onefile --add-data "tests;tests" --add-data "names_base.txt;." --icon=pyquiz.ico main.py
 ```
+
 > На Linux/macOS в `--add-data` используется разделитель `:` вместо `;`.
+
 > Файлы тестов при сборке .exe, должны находиться в корневом каталоге, в папке `tests`, картинки в папке в папке `tests\images`
+
 > Заранее созданный список имен студентов указывать в файле `names_base.txt` хранимый в корневом каталоге, каждое новое имя, на новой строке, без запятых
 
 ## Запуск из исходников
