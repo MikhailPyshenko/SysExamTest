@@ -1,0 +1,108 @@
+# Проверить, игнорируется ли файл: git check-ignore -v .venv/python.exe
+
+# Специфические файлы проекта
+names_base.txt
+main.spec
+PyQuizApp.iml
+SysExamTest.iml
+dist/
+build/
+tests/
+
+# Автогенерируемые файлы
+/reports/
+/screenshots/
+/allure-results/
+*.log
+*.orig
+*.rar
+*.7z
+*.zip
+*.tar
+*.gz
+*.old
+*.tmp
+*.tags
+*.tags_sorted_by_file
+*.metadata
+*.lock
+*.swp
+*.out
+edu-test.iml
+
+# Локальное окружение
+.env
+env/
+ENV/
+.venv
+venv/
+VENV/
+env.bak/
+venv.bak/
+# Пакеты
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+# Прочее
+pip-log.txt
+pip-delete-this-directory.txt
+*.manifest
+*.spec
+
+# IDE
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*$py.class
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Тестовый мусор
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Джанго мусор
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Флак мусор
+instance/
+.webassets-cache
+
+# Селери мусор
+celerybeat-schedule
+celerybeat.pid
+
+# Прочее
+*.exe
+*.so
